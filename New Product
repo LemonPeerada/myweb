@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>เปลี่ยนฟอนต์</title>
+    <style>
+        body {
+            font-family: 'Sarabun', sans-serif; /* เปลี่ยนฟอนต์ที่นี่ */
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@400&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>สวัสดี! นี่คือฟอนต์ที่เปลี่ยนแล้ว</h1>
+    <p>คุณสามารถปรับฟอนต์ได้ตามต้องการ</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product Name</title>
+</head>
+<body>
+    <h1>Welcome to our Website</h1>
+    <h2>You can talk to our Chatbot!</h2>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Webpage with Background Color and Photo</title>
+    <style>
+        /* Set the background color for the entire page */
+        body {
+            background-color: #ffd1dc; /* pink */
+        }
+
+        /* Style for the photo */
+        .google-photo {
+            width: 100
+         px; /* Adjust as needed */
+            height: 1000;
+            display: block;
+            margin: 20px auto; /* Center the image */
+        }
+    </style>
+</head>
+<body>
+
+    <img src="https://pbs.twimg.com/media/GM--2pGaAAE_XTG?format=jpg&name=4096x4096" alt="Photo from Google" class="google-photo">
+
+    <!-- Replace 'your-image-url.jpg' with the actual URL of the image from Google -->
+
+</body>
+</html>
+
+<script type="module">
+    import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
+    Chatbot.init({
+        chatflowid: "674ec7a2-c376-48e3-ae5c-bba2efdd9aaf",
+        apiHost: "https://lemonpeerada-flowise-space.hf.space",
+    })
+</script>
+
+    })
+</script>
