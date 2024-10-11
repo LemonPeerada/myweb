@@ -58,10 +58,7 @@
 <script type="module">
     import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
     Chatbot.init({
-        chatflowid: "674ec7a2-c376-48e3-ae5c-bba2efdd9aaf",
+        chatflowid: "bd47d71e-f8d7-4b11-9aee-d135c7940053",
         apiHost: "https://lemonpeerada-flowise-space.hf.space",
-    })
-</script>
-
     })
 </script>
